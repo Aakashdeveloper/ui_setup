@@ -90,3 +90,8 @@ html> is the main tag
 head > we link css,js / meta/title 
 (things which is not visible to user except title)
 body > Contains all the content that user see
+
+href= hyper reffernce
+rel = related To
+src = source
+alt = alternative
